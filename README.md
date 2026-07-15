@@ -71,3 +71,17 @@ Images are resized to:
 streamlit run app.py
 ```
 
+## Results
+
+Test Accuracy: 97.34%
+
+
+## Position-Aware Recognition
+Unlike standard character classification systems, this project distinguishes different contextual forms of Persian letters:
+
+- Beginning
+- Middle
+- Ending
+- Standalone
+
+This makes the model more suitable for Persian OCR and document analysis applications.
