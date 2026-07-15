@@ -85,3 +85,5 @@ Unlike standard character classification systems, this project distinguishes dif
 - Standalone
 
 This makes the model more suitable for Persian OCR and document analysis applications.
+
+
